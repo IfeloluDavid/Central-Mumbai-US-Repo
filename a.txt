@@ -1,4 +1,6 @@
 python
 java
 c++
-
+HTML
+CSS
+Javascript
